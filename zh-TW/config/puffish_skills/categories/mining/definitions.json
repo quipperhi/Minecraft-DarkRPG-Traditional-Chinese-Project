@@ -1,6 +1,6 @@
 {
 	"fortune+0.1": {
-		"title": "+0.1 Fortune",
+		"title": "+0.1 幸運",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -19,7 +19,7 @@
 		]
 	},
 	"mining_speed+3%": {
-		"title": "+3% Mining Speed",
+		"title": "+3% 挖掘速度",
 		"icon": {
 			"type": "effect",
 			"data": {

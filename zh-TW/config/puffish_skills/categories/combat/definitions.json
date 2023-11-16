@@ -1,6 +1,6 @@
 {
 	"root_health+2": {
-		"title": "+1 Heart",
+		"title": "+1 心",
 		"frame": {
 			"type": "advancement",
 			"data": {
@@ -25,7 +25,7 @@
 		]
 	},
 	"root_resistance+1%": {
-		"title": "+1% Resistance",
+		"title": "+1% 抗性",
 		"frame": {
 			"type": "advancement",
 			"data": {
@@ -50,7 +50,7 @@
 		]
 	},
 	"root_melee_damage+3%": {
-		"title": "+3% Melee Damage",
+		"title": "+3% 近戰傷害",
 		"frame": {
 			"type": "advancement",
 			"data": {
@@ -75,7 +75,7 @@
 		]
 	},
 	"root_ranged_damage+3%": {
-		"title": "+3% Ranged Damage",
+		"title": "+3% 遠程傷害",
 		"frame": {
 			"type": "advancement",
 			"data": {
@@ -100,7 +100,7 @@
 		]
 	},
 	"health+2": {
-		"title": "+1 Heart",
+		"title": "+1 心",
 		"icon": {
 			"type": "effect",
 			"data": {
@@ -119,7 +119,7 @@
 		]
 	},
 	"resistance+1%": {
-		"title": "+1% Resistance",
+		"title": "+1% 抗性",
 		"icon": {
 			"type": "effect",
 			"data": {
@@ -138,7 +138,7 @@
 		]
 	},
 	"melee_damage+3%": {
-		"title": "+3% Melee Damage",
+		"title": "+3% 近戰傷害",
 		"icon": {
 			"type": "effect",
 			"data": {
@@ -157,7 +157,7 @@
 		]
 	},
 	"ranged_damage+3%": {
-		"title": "+3% Ranged Damage",
+		"title": "+3% 遠程傷害",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -176,7 +176,7 @@
 		]
 	},
 	"attack_speed+5%": {
-		"title": "+5% Attack Speed",
+		"title": "+5% 攻擊速度",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -195,7 +195,7 @@
 		]
 	},
 	"movement_speed+5%": {
-		"title": "+5% Movement Speed",
+		"title": "+5% 移動速度",
 		"icon": {
 			"type": "effect",
 			"data": {
@@ -214,7 +214,7 @@
 		]
 	},
 	"luck+0.25": {
-		"title": "+0.25 Luck",
+		"title": "+0.25 幸運",
 		"icon": {
 			"type": "effect",
 			"data": {
@@ -233,7 +233,7 @@
 		]
 	},
 	"stamina+5%": {
-		"title": "+5% Stamina",
+		"title": "+5% 耐力",
 		"icon": {
 			"type": "effect",
 			"data": {
@@ -252,7 +252,7 @@
 		]
 	},
 	"healing+5%": {
-		"title": "+5% Healing",
+		"title": "+5% 治療效果",
 		"icon": {
 			"type": "effect",
 			"data": {
@@ -271,7 +271,7 @@
 		]
 	},
 	"jump+5%": {
-		"title": "+5% Jump",
+		"title": "+5% 跳躍",
 		"icon": {
 			"type": "effect",
 			"data": {
