@@ -1,8 +1,8 @@
 {
     "__comment": "Made by ..",
     "display": {
-        "title": {"text": "==DarkRPG Instructions=="},
-        "description": {"text": "Press L for Quests, O for Origin info, /trigger.. to RTP/Spawn, M for Map, C to Zoom. Use Orb of Orgin to change your origin. Complete quests or play the casino for more rewards!"},
+        "title": {"text": "==DarkRPG指南=="},
+        "description": {"text": "按L查看任務，按O查看起源資訊，使用/trigger命令進行隨機傳送/重生，按M查看地圖，按C進行放大。使用起源法球改變你的起源。完成任務或在賭場遊戲以獲得更多獎勵！"},
         
         "icon": {"item": "minecraft:bread"},
         "frame": "challenge",
