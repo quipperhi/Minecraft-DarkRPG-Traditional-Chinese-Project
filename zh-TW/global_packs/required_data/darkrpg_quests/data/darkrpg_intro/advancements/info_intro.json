@@ -2,7 +2,7 @@
     "__comment": "Made by ..",
     "display": {
         "title": {"text": "==DarkRPG指南=="},
-        "description": {"text": "按L查看任務，按O查看起源資訊，使用/trigger命令進行隨機傳送/重生，按M查看地圖，按C進行放大。使用起源法球改變你的起源。完成任務或在賭場遊戲以獲得更多獎勵！"},
+        "description": {"text": "按L查看任務，按O查看起始種族資訊，使用/trigger darkrtp命令進行隨機傳送/重生，按M查看地圖，按C進行放大。使用起源法球改變你的起始種族。完成任務或在賭場遊戲以獲得更多獎勵！"},
         
         "icon": {"item": "minecraft:bread"},
         "frame": "challenge",

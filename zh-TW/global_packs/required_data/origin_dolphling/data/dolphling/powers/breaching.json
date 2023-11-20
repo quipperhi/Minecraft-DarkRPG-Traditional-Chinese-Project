@@ -1,10 +1,10 @@
 {
-    "name": "Breaching",
-    "description": "Primary: Torpedo yourself forward with great speed in the water.",
+    "name": "突進",
+    "description": "主要能力：在水中用魚雷將自己迅速向前推進。",
     "badges": [
         {
             "sprite": "origins:textures/gui/badge/active.png",
-            "text": "Primary ability, use with %s"
+            "text": "主要能力，與 %s 一同使用"
         }
     ],
     "type": "origins:active_self",

@@ -1,10 +1,10 @@
 {
-    "name": "Echolocation",
-    "description": "Secondary: Emit an ultrasonic pulse, allowing you to see the location of nearby entities, even through walls!",
+    "name": "迴聲定位",
+    "description": "次要能力：發出超音波脈衝，使你能夠看到附近實體的位置，甚至能夠穿過牆壁！",
     "badges": [
         {
             "sprite": "origins:textures/gui/badge/active.png",
-            "text": "Secondary ability, use with %s"
+            "text": "次要能力，與 %s 一同使用"
         }
     ],
     "type": "origins:multiple",

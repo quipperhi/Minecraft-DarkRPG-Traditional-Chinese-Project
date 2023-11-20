@@ -1,6 +1,6 @@
 {
-    "name": "Aquatic born",
-    "description": "Your adapted lungs allows you to hold your breath underwater for up to 8 minutes.",
+    "name": "水生出生",
+    "description": "你適應的肺部允許你在水下保持呼吸長達8分鐘。",
     "type": "origins:action_over_time",
     "interval": 10,
     "entity_action": {

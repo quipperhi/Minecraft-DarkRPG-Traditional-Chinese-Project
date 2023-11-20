@@ -1,6 +1,6 @@
 {
 	"root_health+2": {
-		"title": "+1 心",
+		"title": "+1 心(最大血量)",
 		"frame": {
 			"type": "advancement",
 			"data": {
@@ -100,7 +100,7 @@
 		]
 	},
 	"health+2": {
-		"title": "+1 心",
+		"title": "+1 心(最大血量)",
 		"icon": {
 			"type": "effect",
 			"data": {
